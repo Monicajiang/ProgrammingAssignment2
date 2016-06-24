@@ -12,7 +12,7 @@ set<-function(y){
 get<-function()x
 setinverse<-function(inverse) i<<-inverse
 getinverse<-function() i
-list(set=set,get=get,setmean=setmean,getmean=getmean)
+list(set=set,get=get,setinverse=setinverse,getinverse=getinverse)
 }
 
 
